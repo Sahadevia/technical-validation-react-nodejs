@@ -15,9 +15,13 @@ Créer un système création de gestion d’utilisateurs (stockage JSON côté b
 
 # Installation
 
-/* npm install
+```
+npm install
 cd client && npm install --legacy-peer-deps
+```
 
 # Démarrage 
 
-/* npm run dev */
+```
+npm run dev
+```
